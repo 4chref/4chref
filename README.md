@@ -6,15 +6,9 @@
 ---
 <div align="center">
     
-# 👋 Assalamu Alaikum!
+#  Too weird to live, and too rare to die.
 
 </div>
-
-<div align="center">
-    <h3>"The more data you collect, the more you become a target."
-– Bruce Schneier </h3>
-</div>
-
 ---
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=4chref&style=for-the-badge">
