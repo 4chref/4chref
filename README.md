@@ -2,14 +2,11 @@
     <img src='https://upload.wikimedia.org/wikipedia/commons/7/76/Bismillah.gif'/>
     <h3>فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُل رَّبِّ زِدْنِي عِلْمًا</h3>
 </div>
-
----
 <div align="center">
     
 #  Too weird to live, and too rare to die.
 
 </div>
----
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=4chref&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/4chref?logo=GitHub&style=for-the-badge">
